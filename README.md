@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## First Run.
+npm install (node version 18.2.0)
+socket ins't working so don't need to run server.js file for websockets
+
 ## Available Scripts
 
 In the project directory, you can run:
